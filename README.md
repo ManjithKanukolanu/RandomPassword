@@ -8,7 +8,9 @@ This application allows users to create customizable passwords. Users can specif
 
 ⚙️ Features:
     • Customizable Length: Users can choose the desired length of the password.
+    
     • Character Variety: Generates passwords that can include uppercase letters, lowercase letters, numbers, and symbols.
+    
     • User-Friendly Interface: Easy-to-use controls for generating secure passwords quickly.
     
 🛠️ Technologies Used:

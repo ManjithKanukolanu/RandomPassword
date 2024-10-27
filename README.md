@@ -7,6 +7,7 @@ A simple and efficient JavaScript application designed to generate secure and ra
 This application allows users to create customizable passwords. Users can specify the password length and choose to include uppercase letters, lowercase letters, numbers, and special symbols to enhance security.
 
 ⚙️ Features:
+
     • Customizable Length: Users can choose the desired length of the password.
     
     • Character Variety: Generates passwords that can include uppercase letters, lowercase letters, numbers, and symbols.
